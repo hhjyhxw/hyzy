@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/common
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/common/ServiceException.java
+END
+TokenInjectionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/common/TokenInjectionInterceptor.java
+END
+TokenAtionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/common/TokenAtionInterceptor.java
+END
+TrimInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/common/TrimInterceptor.java
+END
+EntityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/common/EntityInterceptor.java
+END

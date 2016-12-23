@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/test/spring
+END
+SpringTransactionalTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/test/spring/SpringTransactionalTestCase.java
+END
+SpringContextTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/test/spring/SpringContextTestCase.java
+END
+SpringTxTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/test/spring/SpringTxTestCase.java
+END

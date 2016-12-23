@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/log
+END
+Log4jMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/log/Log4jMBean.java
+END
+MockLog4jAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/log/MockLog4jAppender.java
+END

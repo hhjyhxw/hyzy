@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client
+END
+VariableSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/VariableSend.java
+END
+QuerySendAppLogResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/QuerySendAppLogResponse.java
+END
+QuerySendAppLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/QuerySendAppLog.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/package-info.java
+END
+BatchSendResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/BatchSendResponse.java
+END
+BatchSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/BatchSend.java
+END
+MassSendResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/MassSendResponse.java
+END
+MassSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/MassSend.java
+END
+SendSmsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/SendSmsService.java
+END
+SendSmsService_SendSmsServicePort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/SendSmsService_SendSmsServicePort_Client.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/ObjectFactory.java
+END
+SendSmsServiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/SendSmsServiceService.java
+END
+VariableSendResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-sms/src/main/java/com/techown/client/VariableSendResponse.java
+END

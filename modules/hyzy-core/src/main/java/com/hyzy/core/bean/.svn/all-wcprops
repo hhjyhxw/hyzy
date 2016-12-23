@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean
+END
+MapBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean/MapBean.java
+END
+QueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean/QueryResult.java
+END
+DynamicConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean/DynamicConfig.java
+END
+HtmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean/HtmlConfig.java
+END
+Setting.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean/Setting.java
+END
+Pager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/bean/Pager.java
+END

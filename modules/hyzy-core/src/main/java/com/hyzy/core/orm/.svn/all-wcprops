@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/orm
+END
+BaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/orm/BaseEntity.java
+END
+IdEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/orm/IdEntity.java
+END
+PropertyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/orm/PropertyFilter.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gxzy/!svn/ver/4/hyzy/modules/hyzy-core/src/main/java/com/hyzy/core/orm/Page.java
+END
